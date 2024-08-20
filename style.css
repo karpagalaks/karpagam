@@ -1,0 +1,14 @@
+p {
+    color:red;
+}
+body {
+    background-color: greenyellow;
+}
+.name{
+    font-size:40px;
+    color:crimson;
+    text-align: center;
+}
+#first {
+    color:brown;
+}
